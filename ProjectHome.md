@@ -1,0 +1,3 @@
+Toroid is the first open source middleware software for IPTV deployments, released under the GNU General Public License (GPL). Until now there has only been costly software solutions and big named players that provide the server side software that brings digital ip television to the consumer. Middleware is a very loose term in the IPTV industry. For our purposes, we are creating a competetive open source middleware that controls the look and feel of the set top boxes, on-screen display of caller id when a subscribers phone rings, provides conditional access (encryption management), video on demand, and pay per view. This is just a glimpse in to the featuresets we are looking to offer.
+
+http://www.linopoly.com/toroid
